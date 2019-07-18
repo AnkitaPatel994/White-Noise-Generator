@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true"
+        android:drawable="@drawable/ll_bg_right_click"/> <!-- pressed -->
+    <item android:state_focused="true"
+        android:drawable="@drawable/ll_bg_right_click"/> <!-- focused -->
+
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:topRightRadius="30dp"
+                android:bottomRightRadius="30dp"/>
+            <solid android:color="#CCCCCC" />
+            <gradient
+                android:angle="90"
+                android:startColor="@color/colorWrite"
+                android:endColor="@color/colorWrite"/>
+        </shape>
+    </item><!-- default -->
+
+</selector>

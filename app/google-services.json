@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "147143035078",
+    "firebase_url": "https://global-app-123.firebaseio.com",
+    "project_id": "global-app-123",
+    "storage_bucket": "global-app-123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147143035078:android:38e28e0d51648d96",
+        "android_client_info": {
+          "package_name": "com.iteration.relaxio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147143035078-ags5qglmvleuvfa68kcsn2qg40kgjitu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZcCcrLzAuBbdUjM3AGtqAi2mgguTU6hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147143035078-ags5qglmvleuvfa68kcsn2qg40kgjitu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

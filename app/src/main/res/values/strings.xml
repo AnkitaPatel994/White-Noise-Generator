@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Relaxio</string>
+    <string name="download_completed">Download Completed</string>
+
+    <string-array name="timer">
+        <item>No Timer</item>
+        <item>5 Minutes</item>
+        <item>10 Minutes</item>
+        <item>15 Minutes</item>
+        <item>20 Minutes</item>
+        <item>30 Minutes</item>
+        <item>40 Minutes</item>
+        <item>1 Hours</item>
+        <item>2 Hours</item>
+        <item>4 Hours</item>
+        <item>8 Hours</item>
+    </string-array>
+
+</resources>
