@@ -12,7 +12,8 @@
     <ImageView
         android:id="@+id/ivSoundIcon"
         android:layout_width="50dp"
-        android:layout_height="50dp" />
+        android:layout_height="50dp"
+        android:tint="@color/colorWrite"/>
 
     <SeekBar
         android:id="@+id/sbVolume"

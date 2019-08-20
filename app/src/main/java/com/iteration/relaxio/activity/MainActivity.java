@@ -288,7 +288,7 @@ public class MainActivity extends AppCompatActivity {
             protected void onPostExecute(List<SoundData> data) {
                 super.onPostExecute(data);
                 SoundListArray.clear();
-                //    SoundListArray = response.body().getSoundList();
+                //SoundListArray = response.body().getSoundList();
 
                 for (int i = 0; i < data.size(); i++) {
                     SoundData sound = data.get(i);
